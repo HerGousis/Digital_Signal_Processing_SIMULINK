@@ -3,7 +3,7 @@
 ## kouz_laboratory_1
 
 Τα αρχεια αφορουν στον υπολογισμο της συνεληξης , του αντιστροφου μετασχηματισμου Z  με χρηση Simulink του MATLAB 
-Οι εκφωνησεις των κουζς ειναι [[κουζ1.pdf]](https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_1/help4quiz_0101_v2.pdf) , [[κουζ2.pdf]](https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_1/help4quiz_0202_v2.pdf) , [[κουζ3.pdf]](https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_1/help4quiz_0204_v2.pdf)
+Οι εκφωνησεις των κουζς ειναι [[κουζ1.pdf]]( https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_1/help4quiz_0101_v2.pdf) , [[κουζ2.pdf]]( https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_1/help4quiz_0202_v2.pdf) , [[κουζ3.pdf]]( https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_1/help4quiz_0204_v2.pdf)
 
  <div style="text-align:center;">
     <img src="kouz_laboratory_1/1.png" alt="1" width="800">
