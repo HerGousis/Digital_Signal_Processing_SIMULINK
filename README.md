@@ -58,3 +58,46 @@ conv([5 8 6 5 0 1 9], [9 1 0 5 6 8 5])
 ```
 quiz_0403(5865019,45,'C:\tmp_dsp_lab\lab2\')
 ```
+## kouz_laboratory_3
+Οι εκφωνησεις των κουζς ειναι [[κουζ1.pdf]]( https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_3/help4quiz_0701.pdf) , [[κουζ2.pdf]]( https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_3/help4quiz_0702.pdf) ,
+
+ <div style="text-align:center;">
+    <img src="kouz_laboratory_3/1.png" alt="1" width="800">
+</div>
+
+και γραφουμε στο ```MATLAB```
+```
+quiz_0701(5865019,8.26,-0.75,'C:\tmp_dsp_lab\')
+```
+για το κουζ2 
+
+ <div style="text-align:center;">
+    <img src="kouz_laboratory_3/2.png" alt="1" width="800">
+</div>
+
+και γραφουμε στο ```MATLAB```
+```
+quiz_0702(5865019,99,'C:\tmp_dsp_lab\')
+```
+
+## kouz_laboratory_4
+Οι εκφωνησεις των κουζς ειναι [[κουζ1.pdf]]( https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_4/help4quiz_0801.pdf) , [[κουζ2.pdf]]( https://github.com/HerGousis/Digital_Signal_Processing_SIMULINK/blob/main/kouz_laboratory_4/help4quiz_0901.pdf) ,
+
+ <div style="text-align:center;">
+    <img src="kouz_laboratory_4/1.png" alt="1" width="800">
+</div>
+
+και γραφουμε στο ```MATLAB```
+```
+quiz_0801(5865019,-0.18,'C:\tmp_dsp_lab\')
+```
+για το κουζ2 
+
+ <div style="text-align:center;">
+    <img src="kouz_laboratory_4/2.png" alt="1" width="800">
+</div>
+
+και γραφουμε στο ```MATLAB```
+```
+quiz_0901(5865019,0.71,'C:\tmp_dsp_lab\')
+```
